@@ -16,6 +16,8 @@
 		9A1C1DEE275B815F00E8DDC2 /* LinkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1C1DEB275B815F00E8DDC2 /* LinkList.swift */; };
 		9A1C1DF0275B815F00E8DDC2 /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1C1DED275B815F00E8DDC2 /* List.swift */; };
 		9A1C1DF2275B816500E8DDC2 /* Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1C1DF1275B816500E8DDC2 /* Tree.swift */; };
+		9A65A6492777050800A2096C /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A65A6482777050800A2096C /* Stack.swift */; };
+		9A65A64B27784CC400A2096C /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A65A64A27784CC400A2096C /* Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		9A1C1DEB275B815F00E8DDC2 /* LinkList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkList.swift; sourceTree = "<group>"; };
 		9A1C1DED275B815F00E8DDC2 /* List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = List.swift; sourceTree = "<group>"; };
 		9A1C1DF1275B816500E8DDC2 /* Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tree.swift; sourceTree = "<group>"; };
+		9A65A6482777050800A2096C /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		9A65A64A27784CC400A2096C /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				9A1C1DD9275B814500E8DDC2 /* SceneDelegate.swift */,
 				9A1C1DDB275B814500E8DDC2 /* ViewController.swift */,
 				9A1C1DEB275B815F00E8DDC2 /* LinkList.swift */,
+				9A65A6482777050800A2096C /* Stack.swift */,
+				9A65A64A27784CC400A2096C /* Array.swift */,
 				9A1C1DED275B815F00E8DDC2 /* List.swift */,
 				9A1C1DF1275B816500E8DDC2 /* Tree.swift */,
 				9A1C1DDD275B814500E8DDC2 /* Main.storyboard */,
@@ -149,8 +155,10 @@
 			files = (
 				9A1C1DF2275B816500E8DDC2 /* Tree.swift in Sources */,
 				9A1C1DDC275B814500E8DDC2 /* ViewController.swift in Sources */,
+				9A65A6492777050800A2096C /* Stack.swift in Sources */,
 				9A1C1DD8275B814500E8DDC2 /* AppDelegate.swift in Sources */,
 				9A1C1DDA275B814500E8DDC2 /* SceneDelegate.swift in Sources */,
+				9A65A64B27784CC400A2096C /* Array.swift in Sources */,
 				9A1C1DEE275B815F00E8DDC2 /* LinkList.swift in Sources */,
 				9A1C1DF0275B815F00E8DDC2 /* List.swift in Sources */,
 			);

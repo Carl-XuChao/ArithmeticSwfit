@@ -160,3 +160,30 @@ func testAddElement() {
     
     
 }
+
+
+/// todo:  静态链表： 用数字描述的链表
+
+
+
+/// 循环链表
+
+
+
+/// 双向链表
+class DoubleNode {
+    
+    var data: Any?
+    
+    var prior: DoubleNode?
+    
+    var next: DoubleNode?
+    
+    init(_ value: Any?) {
+        self.data = value
+    }
+}
+
+typealias DoubleLinkList = DoubleNode
+
+
